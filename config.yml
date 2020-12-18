@@ -5,9 +5,6 @@ theme: hugo-cigarprofile-theme
 disqusShortname: cigarprofile
 googleAnalytics: G-V49RZC901H
 
-params:
-  env: production
-
 menu:
   main:
     - name: Cigar Reviews
