@@ -1,0 +1,3 @@
+[submodule "themes/hugo-cigarprofile-theme"]
+	path = themes/hugo-cigarprofile-theme
+	url = https://github.com/troylugar/hugo-cigarprofile-theme.git
