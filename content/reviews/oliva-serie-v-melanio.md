@@ -10,7 +10,7 @@ tags:
 featured_image: https://s3.cigarprofile.com/images/cigars/oliva/serie-v-melanio/cigar.png
 # displays in social cards
 images:
-    - https://s3.cigarprofile.com/images/cigars/oliva/serie-v-melanio/first-third.png
+    - https://s3.cigarprofile.com/images/cigars/oliva/serie-v-melanio/first-third.jpg
 # taxonomy purposes
 brands:
     - Oliva
