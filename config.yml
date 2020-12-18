@@ -1,0 +1,32 @@
+baseURL: http://www.cigarprofile.com/
+languageCode: en-us
+title: Cigar Profile
+theme: hugo-cigarprofile-theme
+disqusShortname: cigarprofile
+googleAnalytics: G-V49RZC901H
+
+params:
+  env: production
+
+menu:
+  main:
+    - name: Cigar Reviews
+      url: /reviews/
+      weight: 1
+    - name: Cigar Brands
+      url: /brands/
+      weight: 2
+    - name: Blog
+      url: /posts/
+      weight: 3
+    - name: About
+      url: /about/
+      weight: 4
+    - name: Contact
+      url: /contact/
+      weight: 5
+
+taxonomies:
+  tag: tags
+  category: categories
+  brand: brands
