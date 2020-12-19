@@ -1,3 +1,3 @@
 # The Cigar Profile Website
 
-This is the [cigarprofile.com](cigarprofile.com) website.
+This is the [https://www.cigarprofile.com](cigarprofile.com) website.
