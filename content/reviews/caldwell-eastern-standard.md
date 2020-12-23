@@ -15,6 +15,8 @@ images:
 # taxonomy purposes
 brands:
   - Caldwell
+authors:
+  - Troy Lugar
 overall_rating: 87
 metadata:
   brand: Caldwell

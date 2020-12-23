@@ -14,6 +14,8 @@ images:
 # taxonomy purposes
 brands:
   - Oliva
+authors:
+  - Troy Lugar
 overall_rating: 88
 metadata:
   brand: Oliva
